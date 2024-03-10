@@ -7,7 +7,7 @@
   "regions": [
     {
       "name": "Сосновый яр",
-      "cmd": "reg-bindweed-sosnovy-yar"
+      "cmd": "json/location/bindweed/sosnovy yar.json"
     }
   ]
 }
