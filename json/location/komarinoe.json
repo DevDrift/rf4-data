@@ -7,8 +7,8 @@
   "regions": [],
   "helps": [
     {
-      "title": "оз. Комариное | Показать локации",
-      "value": "!komarinoe-"
+      "title": "Показать локации",
+      "value": "!rf4-komarinoe-loc"
     }
   ]
 }
