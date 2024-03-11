@@ -8,7 +8,15 @@
   "helps": [
     {
       "title": "Показать локации",
-      "value": "!rf4-komarinoe-loc"
+      "value": "!rf4-location-komarinoe"
+    },
+    {
+      "title": "Список рыб",
+      "value": "!rf4-fish-komarinoe"
+    },
+    {
+      "title": "Здания, сооружения",
+      "value": "!rf4-building-komarinoe"
     }
   ]
 }
