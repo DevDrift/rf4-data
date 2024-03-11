@@ -1,0 +1,78 @@
+{
+  "title": "Список водоемов",
+  "bio": "",
+  "thumbnail": "images/thumbnail",
+  "img": "images/thumbnail",
+  "territories": [
+    {
+      "title": "оз. Комариное",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/komarinoe"
+    },
+    {
+      "title": "р. Вьюнок",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/bindweed"
+    },
+    {
+      "title": "оз. Старый Острог",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/old-ostrog"
+    },
+    {
+      "title": "р.Белая",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/belaya-river"
+    },
+    {
+      "title": "оз. Куори",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/quori-lake"
+    },
+    {
+      "title": "оз. Медвежье",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/bearish-lake"
+    },
+    {
+      "title": "р. Волхов",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/volkhov-river"
+    },
+    {
+      "title": "оз. Ладожское",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/ladoga-lake"
+    },
+    {
+      "title": "р. Ахтуба",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/akhtuba-river"
+    },
+    {
+      "title": "оз. Янтарное",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/yantarnoe-lake"
+    },
+    {
+      "title": "р. Северский Донец",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/seversky-donets-river"
+    },
+    {
+      "title": "р. Нижняя Тунгуска",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/lower-tunguska-river"
+    },
+    {
+      "title": "р. Яма",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/pit-river"
+    },
+    {
+      "title": "Ладожский архипелаг",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/ladoga-archipelago"
+    }
+  ]
+}
