@@ -1,0 +1,62 @@
+{
+  "title": "оз. Комариное | Здания, сооружения",
+  "img": "images/location/komarinoe",
+  "bio": "Тихое озеро, окруженное непроходимыми новгородскими лесами. В небольшой деревне, которая раскинулась на крутом берегу озера, можно купить лишь самое необходимое, а также продать рыбу или осуществить ремонт снастей. Свободный доступ и большое разнообразие рыбы делают этот водоем прекрасным местом для начинающего рыболова.",
+  "buildings": [
+    {
+      "title": "Администрация",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/administration"
+    },
+    {
+      "title": "Лодочная станция",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/boat-station"
+    },
+    {
+      "title": "Кафе",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/cafe"
+    },
+    {
+      "title": "Промтовары",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/department-store"
+    },
+    {
+      "title": "Продукты",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/grocery-store"
+    },
+    {
+      "title": "Рыбный рынок",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/fish-market"
+    },
+    {
+      "title": "Рыболов",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/fishing-store"
+    },
+    {
+      "title": "Горячая еда",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/hot-food"
+    },
+    {
+      "title": "Дом",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/home"
+    },
+    {
+      "title": "Мастерская",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/workshop"
+    },
+    {
+      "title": "Турбаза",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "building-list-json/building/komarinoe/tourist-base"
+    }
+  ]
+}
