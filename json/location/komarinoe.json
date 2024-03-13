@@ -17,6 +17,10 @@
     {
       "title": "Здания, сооружения",
       "value": "!rf4-building-list-komarinoe"
+    },
+    {
+     "title": "Актуальная точка",
+     "value": "!rf4-top-point-komarinoe"
     }
   ]
 }
