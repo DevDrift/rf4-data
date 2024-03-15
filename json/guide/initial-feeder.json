@@ -4,24 +4,32 @@
   "bio": "Самую первую сборку можно купить на [оз. Камариное]",
   "steps": [
     {
-      "title": "Удочка",
-      "value": "\uD83C\uDFA3Kama Comfort FD360\nСтрой: Быстрый Тест: 20 - 100 г.\nДлина: 3.6 м.\nКвивертип: 14 г."
+      "title": "Удочка (Строй: Быстрый Тест: 20 - 100 г. Длина: 3.6 м.)",
+      "value": "Kama Comfort FD360"
     },
     {
-      "title": "Катушка",
-      "value": "\uD83E\uDDF5Express Fishing Lacerti 2 4000S\nФр.тормоз: 5.4 кг."
+      "title": "Катушка (Фр.тормоз: 5.4 кг.)",
+      "value": "Express Fishing Lacerti 2 4000S"
     },
     {
-      "title": "Леска",
-      "value": "Express Fishing Super Line - 12lb\nПрочность: 5.6 кг."
+      "title": "Леска (Прочность: 5.6 кг.)",
+      "value": "Express Fishing Super Line - 12lb"
     },
     {
-      "title": "Сигнализатор и кормушка",
-      "value": "\uE407Express Fishing Twin bells - FA\n\uD83C\uDF5BExpress Fishing Mesh Feeder #4\nМасса: 14 г."
+      "title": "Сигнализатор",
+      "value": "Express Fishing Twin bells - FA"
     },
     {
-      "title": "Поводок и крючок",
-      "value": "Syberia Fine F-carbon leader FD 12LB Прочность: 5.4 кг.\nSyberia CHK501 S1 Размер: Большой(1)"
+      "title": "Кормушка (Масса: 14 г.)",
+      "value": "Express Fishing Mesh Feeder #4"
+    },
+    {
+      "title": "Поводок (Прочность: 5.4 кг.)",
+      "value": "Syberia Fine F-carbon leader FD 12LB"
+    },
+    {
+      "title": "Крючок (Размер: Большой(1))",
+      "value": "Syberia CHK501 S1"
     }
   ]
 }
