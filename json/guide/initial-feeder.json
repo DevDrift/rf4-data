@@ -1,0 +1,27 @@
+{
+  "title": "Фидер | стартовая сборка",
+  "img": "",
+  "bio": "Самую первую сборку можно купить на [оз. Камариное]",
+  "steps": [
+    {
+      "title": "Удочка",
+      "value": "Kama Comfort FD360\nСтрой: Быстрый Тест: 20 - 100 г.\nДлина: 3.6 м.\nКвивертип: 14 г."
+    },
+    {
+      "title": "Катушка",
+      "value": "Express Fishing Lacerti 2 4000S\nФр.тормоз: 5.4 кг."
+    },
+    {
+      "title": "Леска",
+      "value": "Express Fishing Super Line - 12lb\nПрочность: 5.6 кг."
+    },
+    {
+      "title": "Сигнализатор и кормушка",
+      "value": "Express Fishing Twin bells - FA\nExpress Fishing Mesh Feeder #4\nМасса: 14 г."
+    },
+    {
+      "title": "Поводок и крючок",
+      "value": "Syberia Fine F-carbon leader FD 12LB Прочность: 5.4 кг.\nSyberia CHK501 S1 Размер: Большой(1)"
+    }
+  ]
+}
