@@ -73,6 +73,11 @@
       "title": "Ладожский архипелаг",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/ladoga-archipelago"
+    },
+    {
+      "title": "Норвежское море",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/norwegian-sea"
     }
   ]
 }
