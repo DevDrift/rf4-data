@@ -6,9 +6,13 @@
   "minLvl": "Для доступа на водоем требуется 18 уровень игрока",
   "regions": [],
   "helps": [
-   {
-     "title": "Актуальная точка",
-     "value": "!rf4-top-point-bearish-lake"
-   }
+    {
+      "title": "Наценка (+) | Скидка (-)",
+      "value": "Рынок: +15 %\nПродукты: +30 %"
+    },
+    {
+      "title": "Актуальная точка",
+      "value": "!rf4-top-point-bearish-lake"
+    }
   ]
 }

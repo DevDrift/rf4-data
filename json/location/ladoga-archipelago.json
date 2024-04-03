@@ -6,9 +6,13 @@
   "minLvl": "Для доступа на водоем требуется 27 уровень игрока",
   "regions": [],
   "helps": [
-   {
-     "title": "Актуальная точка",
-     "value": "!rf4-top-point-ladoga-archipelago"
-   }
+    {
+      "title": "Наценка (+) | Скидка (-)",
+      "value": "Рынок: +20 %\nМагазин: +13 %\nМастерская: +37 %\nПродукты: +50 %"
+    },
+    {
+      "title": "Актуальная точка",
+      "value": "!rf4-top-point-ladoga-archipelago"
+    }
   ]
 }
