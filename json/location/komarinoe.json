@@ -7,20 +7,12 @@
   "regions": [],
   "helps": [
     {
-      "title": "Показать локации",
-      "value": "!rf4-location-list-komarinoe"
+      "title": "Наценка",
+      "value": "Рынок: 0 %\nМагазин: 0 %\nМастерская: 0 %\nПромтовары: 0 %\nПродукты: - 10 %"
     },
     {
-      "title": "Список рыб",
-      "value": "!rf4-fish-list-komarinoe"
-    },
-    {
-      "title": "Здания, сооружения",
-      "value": "!rf4-building-list-komarinoe"
-    },
-    {
-     "title": "Актуальная точка",
-     "value": "!rf4-top-point-komarinoe"
+      "title": "Актуальная точка",
+      "value": "!rf4-top-point-komarinoe"
     }
   ]
 }
