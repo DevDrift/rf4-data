@@ -7,6 +7,20 @@
   "regions": [],
   "helps": [
     {
+      "title": "Мин. уровень",
+      "inline": true,
+      "value": "27"
+    },
+    {
+      "title": "Цена за переход",
+      "inline": true,
+      "value": "\uD83D\uDCBF 33.80"
+    },
+    {
+      "title": "Тип ловли",
+      "value": "Поплавочная: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nДоночная: \uD83C\uDF1F \nСпиннинговая: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nМорская:  "
+    },
+    {
       "title": "Наценка (+) | Скидка (-)",
       "value": "Рынок: +20 %\nМагазин: +13 %\nМастерская: +37 %\nПродукты: +50 %"
     },
