@@ -40,14 +40,19 @@
       "cmd": "json/location/volkhov-river"
     },
     {
+      "title": "р. Северский Донец",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/seversky-donets-river"
+    },
+    {
+      "title": "р. Сура",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/sura-river"
+    },
+    {
       "title": "оз. Ладожское",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/ladoga-lake"
-    },
-    {
-      "title": "р. Ахтуба",
-      "emoji": "\uD83C\uDF0A",
-      "cmd": "json/location/akhtuba-river"
     },
     {
       "title": "оз. Янтарное",
@@ -55,9 +60,14 @@
       "cmd": "json/location/yantarnoe-lake"
     },
     {
-      "title": "р. Северский Донец",
+      "title": "Ладожский архипелаг",
       "emoji": "\uD83C\uDF0A",
-      "cmd": "json/location/seversky-donets-river"
+      "cmd": "json/location/ladoga-archipelago"
+    },
+    {
+      "title": "р. Ахтуба",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/akhtuba-river"
     },
     {
       "title": "р. Нижняя Тунгуска",
@@ -68,11 +78,6 @@
       "title": "р. Яма",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/pit-river"
-    },
-    {
-      "title": "Ладожский архипелаг",
-      "emoji": "\uD83C\uDF0A",
-      "cmd": "json/location/ladoga-archipelago"
     },
     {
       "title": "Норвежское море",
