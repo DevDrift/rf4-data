@@ -8,12 +8,12 @@
   "helps": [
     {
       "title": "Наценка (+) | Скидка (-)",
-      "inline": true,
+      "inline": false,
       "value": "Рынок: 0 %\nМагазин: 0 %\nМастерская: 0 %\nПромтовары: 0 %\nПродукты: -10 %"
     },
     {
       "title": "Тип ловли",
-      "inline": true,
+      "inline": false,
       "value": "Поплавочкая: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nДоночкая: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nСпиннинговая: \uD83C\uDF1F \nМорская:  "
     },
     {
