@@ -1,0 +1,29 @@
+{
+  "title": "Маховая | Минимальная",
+  "bio": "Стартовая сборка для игроков с 1 уровня. Рекомендуется, для ловли рыбы до 2,5 килограмм.",
+  "imgRod": "images/fishing-rod/telestick",
+  "imgReel": "",
+  "total": "Цена: от 27.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 19.0 \uD83D\uDCBF)",
+      "value": "TeleStick TL13",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Super Line - 8.5lb",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Bob original 4G",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "CHK101 S14",
+      "inline": false
+    }
+  ]
+}
