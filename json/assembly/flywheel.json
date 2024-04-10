@@ -11,12 +11,12 @@
     {
       "title": "Минимальная",
       "emoji": "\uD83C\uDFE3",
-      "cmd": "assembly-item-view/assembly/flywheel/min"
+      "cmd": "assembly-view-item/assembly/flywheel/min"
     },
     {
       "title": "Начальная",
       "emoji": "\uD83C\uDFE3",
-      "cmd": "assembly-item-view/assembly/flywheel/elementary"
+      "cmd": "assembly-view-item/assembly/flywheel/elementary"
     }
   ]
 }
