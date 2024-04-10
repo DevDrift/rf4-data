@@ -1,0 +1,13 @@
+{
+  "title": "Лучшие сборки",
+  "bio": "",
+  "thumbnail": "images/thumbnail",
+  "img": "images/thumbnail",
+  "groups": [
+    {
+      "title": "Маховые",
+      "emoji": "✨",
+      "cmd": "json/assembly/flywheel"
+    }
+  ]
+}
