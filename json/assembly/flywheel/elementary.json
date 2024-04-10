@@ -1,0 +1,29 @@
+{
+  "title": "Маховая | Начальная",
+  "bio": "Сборка для игроков с 12 уровня. Рекомендуется, для ловли рыбы до 6 килограмм.",
+  "imgRod": "images/fishing-rod/belmor-pole",
+  "imgReel": "",
+  "total": "Цена: от 413.0 \uD83D\uDCBF | 3.46 \uD83D\uDCC0",
+  "helps": [
+    {
+      "title": "Удочка (от 369.0 \uD83D\uDCBF | 3.46 \uD83D\uDCC0)",
+      "value": "Belmor Pole 7",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Mono Original - 18lb",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Invis 5.5G",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "CHK201 S9",
+      "inline": false
+    }
+  ]
+}
