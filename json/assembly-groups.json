@@ -7,7 +7,7 @@
     {
       "title": "Маховые",
       "emoji": "✨",
-      "cmd": "assembly-json/assembly/flywheel"
+      "cmd": "assembly-group/assembly/flywheel"
     }
   ]
 }
