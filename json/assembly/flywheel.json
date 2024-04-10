@@ -21,7 +21,7 @@
     {
       "title": "Проф. тяж.",
       "emoji": "\uD83D\uDD27",
-      "cmd": "assembly-view-item/assembly/flywheel/professional_heavy"
+      "cmd": "assembly-view-item/assembly/flywheel/professionalHeavy"
     }
   ]
 }
