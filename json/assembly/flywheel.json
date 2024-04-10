@@ -1,0 +1,17 @@
+{
+  "title": "Маховые",
+  "img": "images/fishing-rod/telestick",
+  "bio": "",
+  "items": [
+    {
+      "title": "Минимальная",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "assembly/flywheel/min"
+    },
+    {
+      "title": "Начальная",
+      "emoji": "\uD83C\uDFE3",
+      "cmd": "assembly/flywheel/elementary"
+    }
+  ]
+}
