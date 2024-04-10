@@ -4,6 +4,11 @@
   "bio": "",
   "items": [
     {
+      "title": "",
+      "emoji": "\uD83D\uDC48",
+      "cmd": "assembly-groups"
+    },
+    {
       "title": "Минимальная",
       "emoji": "\uD83C\uDFE3",
       "cmd": "assembly/flywheel/min"
