@@ -1,5 +1,5 @@
 {
-  "title": "Cборки",
+  "title": "Лучшие сборки",
   "bio": "",
   "thumbnail": "images/thumbnail",
   "img": "images/thumbnail",
@@ -7,7 +7,7 @@
     {
       "title": "Маховые",
       "emoji": "✨",
-      "cmd": "json/assembly/flywheel"
+      "cmd": "assembly-json/assembly/flywheel"
     }
   ]
 }
