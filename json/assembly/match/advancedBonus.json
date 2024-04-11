@@ -1,0 +1,39 @@
+{
+  "title": "Матчевая | Продвинутая бонусная",
+  "bio": "Сборка для игроков с 28 уровня. Рекомендуется для ловли трофеев, в том числе, для самых крупных: карпов, толстолобиков и амуров, при соответствующей оснастке.",
+  "imgRod": "images/fishing-rod/rebellion-match",
+  "imgReel": "images/fishing-reel/tagara",
+  "total": "Цена: от 27000.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 5395 \uD83D\uDCBF | 41.41 \uD83D\uDCC0)",
+      "value": "Rebellion Match 420H",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 20772.0 \uD83D\uDCBF | 113.04 \uD83D\uDCC0)",
+      "value": "Tagara 10000",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Heavy line 70LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "SL-Type 62LB",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S12-S4/0",
+      "inline": false
+    }
+  ]
+}
