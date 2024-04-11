@@ -1,0 +1,39 @@
+{
+  "title": "Матчевая | Профессиональная бонусная",
+  "bio": "Сборка для игроков с 32 уровня. Максимально эффективна при ловле рыбы до 3 кг. на течении.",
+  "imgRod": "images/fishing-rod/monster",
+  "imgReel": "images/fishing-reel/goliaf",
+  "total": "Цена: от 53000.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 11568 \uD83D\uDCBF | 76.33 \uD83D\uDCC0)",
+      "value": "Monster Match 360",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 39799.0 \uD83D\uDCBF | 177.02 \uD83D\uDCC0)",
+      "value": "Goliaf 30000",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "HiPower Braid 130LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Зависит от рыбы, до 43,2 кг.",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S4/0",
+      "inline": false
+    }
+  ]
+}
