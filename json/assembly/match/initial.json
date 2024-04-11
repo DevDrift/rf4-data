@@ -1,0 +1,39 @@
+{
+  "title": "Матчевая | Начальная",
+  "bio": "Сборка для игроков с 20 уровня. Рекомендуется, для ловли рыбы до 15 килограмм. Можно использовать для карпов, толстолобиков и амуров.",
+  "imgRod": "images/fishing-rod/fortuna-match",
+  "imgReel": "images/fishing-reel/caliber-hsv",
+  "total": "Цена: от 4900.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 1211 \uD83D\uDCBF | 10.77 \uD83D\uDCC0)",
+      "value": "Fortuna Match M140MH",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 2885.0 \uD83D\uDCBF | 23.94 \uD83D\uDCC0)",
+      "value": "Caliber HSV 80 SLC",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Mono Original - 55LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Зависит от рыбы, до 15 кг.",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S1",
+      "inline": false
+    }
+  ]
+}
