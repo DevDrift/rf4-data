@@ -1,0 +1,39 @@
+{
+  "title": "Болонская | Профессиональная бонусная",
+  "bio": "Сборка для игроков с 28 уровня. Рекомендуется, для ловли разной трофейных осторожных видов рыб.",
+  "imgRod": "images/fishing-rod/master-bolognese",
+  "imgReel": "images/fishing-reel/caliber-hsv",
+  "total": "Цена: от 14000.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 10914 \uD83D\uDCBF | 73.08 \uD83D\uDCC0)",
+      "value": "Master Bolognese 500",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 2885.0 \uD83D\uDCBF | 23.94 \uD83D\uDCC0)",
+      "value": "Caliber HSV 80 SLC",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Power Braid 99LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой. Для осторожной рыбы до 2 гр.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Флюорокарбоновый до 15 кг.",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S1",
+      "inline": false
+    }
+  ]
+}
