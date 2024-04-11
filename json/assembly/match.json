@@ -27,6 +27,11 @@
       "title": "Проф. тяж.",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/match/professionalHeavy"
+    },
+    {
+      "title": "Продв. бонус.",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/match/advancedBonus"
     }
   ]
 }
