@@ -37,6 +37,11 @@
       "title": "УЛ нач.",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/flywheel/initialUL"
+    },
+    {
+      "title": "УЛ проф. бонус.",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/flywheel/professionalULBonus"
     }
   ]
 }
