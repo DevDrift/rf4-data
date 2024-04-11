@@ -1,0 +1,34 @@
+{
+  "title": "Матчевая | Минимальная",
+  "bio": "Сборка для игроков с 22 уровня. Рекомендуется, для ловли рыбы до 2 килограмм.",
+  "imgRod": "images/fishing-rod/ranger",
+  "imgReel": "images/fishing-reel/lagoon",
+  "total": "Цена: от 291.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 48.5 \uD83D\uDCBF)",
+      "value": "Ranger Match RM13",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 178.0 \uD83D\uDCBF | 1.69 \uD83D\uDCC0)",
+      "value": "Lagoon 3000S",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Fine 9.5LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S19-S8",
+      "inline": false
+    }
+  ]
+}
