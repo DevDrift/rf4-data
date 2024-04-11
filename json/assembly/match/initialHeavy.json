@@ -1,0 +1,39 @@
+{
+  "title": "Матчевая | Начальная тяжелая",
+  "bio": "Сборка для игроков с 26 уровня. Рекомендуется, для ловли щуки на живца. При использовании флюор. поводка, можно ловить и более осторожного хищника.",
+  "imgRod": "images/fishing-rod/fortuna-match",
+  "imgReel": "images/fishing-reel/caliber-hsv",
+  "total": "Цена: от 4900.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 1630 \uD83D\uDCBF | 14.21 \uD83D\uDCC0)",
+      "value": "Model One Match M140XH",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 2885.0 \uD83D\uDCBF | 23.94 \uD83D\uDCC0)",
+      "value": "Caliber HSV 80 SLC",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Mono Original - 55LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Steel Leader 15",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Ultra LF Series S4-S4/0",
+      "inline": false
+    }
+  ]
+}
