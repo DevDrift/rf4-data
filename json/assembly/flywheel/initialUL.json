@@ -1,0 +1,29 @@
+{
+  "title": "Маховая | УЛ - начальная",
+  "bio": "Сборка для игроков с 22 уровня. Рекомендуется, для ловли мелкой рыбы на течении и не только. Удилище покупается в магазине на Донце.",
+  "imgRod": "images/fishing-rod/ataman-ul",
+  "imgReel": "",
+  "total": "Цена: от 1230.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 1103.0 \uD83D\uDCBF | 9.8 \uD83D\uDCC0)",
+      "value": "Атаман UL7",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Fluorocarbon 5,7LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S12",
+      "inline": false
+    }
+  ]
+}
