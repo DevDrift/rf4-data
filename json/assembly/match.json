@@ -12,6 +12,11 @@
       "title": "Минимальная",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/match/min"
+    },
+    {
+      "title": "Начальная",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/match/initial"
     }
   ]
 }
