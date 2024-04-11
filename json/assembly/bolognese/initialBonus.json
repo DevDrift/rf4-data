@@ -1,0 +1,39 @@
+{
+  "title": "Болонская | Начальная бонусная",
+  "bio": "Сборка для игроков с 22 уровня. Рекомендуется, для ловли трофейной осторожной рыбы до 2 килограмм.",
+  "imgRod": "images/fishing-rod/fortuna-bolognese",
+  "imgReel": "images/fishing-reel/lagoon",
+  "total": "Цена: от 27.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 817 \uD83D\uDCBF | 7.43 \uD83D\uDCC0)",
+      "value": "Fortuna Bolognese 500",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 178.0 \uD83D\uDCBF | 1.69 \uD83D\uDCC0)",
+      "value": "Lagoon 3000S",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Hybrid - 11LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой. Для осторожной рыбы до 2 гр.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Флюорокарбоновый до 4,4 кг.",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S12",
+      "inline": false
+    }
+  ]
+}
