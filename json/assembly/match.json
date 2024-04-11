@@ -22,6 +22,11 @@
       "title": "Начальная тяж.",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/match/initialHeavy"
+    },
+    {
+      "title": "Проф. тяж.",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/match/professionalHeavy"
     }
   ]
 }
