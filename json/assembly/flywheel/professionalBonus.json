@@ -1,0 +1,34 @@
+{
+  "title": "Маховая | Профессиональная бонусная",
+  "bio": "Сборка для игроков с 28 уровня. Рекомендуется, для ловли разной трофейной рыбы до 15 килограмм. ⚠️ При леске > 15,8 кг. используется поводок, причём с фурнитурой SwLocks #12",
+  "imgRod": "images/fishing-rod/master",
+  "imgReel": "",
+  "total": "Цена: от 13160.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 12980.0 \uD83D\uDCBF | 83.00 \uD83D\uDCC0)",
+      "value": "Crimson Star TL 800",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Нелон/Флюор, до 19,1 кг. ⚠️",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Флюорокарбоновый 15,8 кг. ⚠️",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S1",
+      "inline": false
+    }
+  ]
+}
