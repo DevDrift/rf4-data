@@ -13,6 +13,11 @@
       "title": "Болонское",
       "emoji": "✨",
       "cmd": "assembly-group/assembly/bolognese"
+    },
+    {
+      "title": "Матчевые",
+      "emoji": "✨",
+      "cmd": "assembly-group/assembly/match"
     }
   ]
 }
