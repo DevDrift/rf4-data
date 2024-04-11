@@ -1,6 +1,6 @@
 {
   "title": "Лучшие сборки",
-  "bio": "",
+  "bio": "Для сборки удилища необходимо открыть окно детальной информации и последовательно установить на удилище все необходимые компоненты. Набор компонентов зависит от типа удилища и оснастки.",
   "thumbnail": "images/thumbnail",
   "img": "images/assembly",
   "groups": [
@@ -8,6 +8,11 @@
       "title": "Маховые",
       "emoji": "✨",
       "cmd": "assembly-group/assembly/flywheel"
+    },
+    {
+      "title": "Болонское",
+      "emoji": "✨",
+      "cmd": "assembly-group/assembly/bolognese"
     }
   ]
 }
