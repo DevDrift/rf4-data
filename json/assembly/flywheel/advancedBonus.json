@@ -1,0 +1,29 @@
+{
+  "title": "Маховая | Продвинутая бонусная",
+  "bio": "Сборка для игроков с 26 уровня. Рекомендуется, для ловли разной трофейной рыбы до 10 килограмм.",
+  "imgRod": "images/fishing-rod/crimson-star",
+  "imgReel": "",
+  "total": "Цена: от 4160.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 3988.0 \uD83D\uDCBF | 31.90 \uD83D\uDCC0)",
+      "value": "Crimson Star TL 800",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Флюорокарбоновая до 12,3 кг.",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Rage Series S24-S1",
+      "inline": false
+    }
+  ]
+}
