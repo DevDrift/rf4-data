@@ -1,0 +1,39 @@
+{
+  "title": "Матчевая | Профессиональная тяжёлая",
+  "bio": "Сборка для игроков с 28 уровня. Рекомендуется для ловли на живца, если нужно ловить далеко от берега. Для ловли аккуратного хищника, стоит использовать флюор. поводок до 0,6мм",
+  "imgRod": "images/fishing-rod/shooting-match",
+  "imgReel": "images/fishing-reel/megara",
+  "total": "Цена: от 30000.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 6601 \uD83D\uDCBF | 49.05 \uD83D\uDCC0)",
+      "value": "Shooting Match 450",
+      "inline": false
+    },
+    {
+      "title": "Катушка (от 22472.0 \uD83D\uDCBF | 118.19 \uD83D\uDCC0)",
+      "value": "Megara 8000",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "HiPower Braid 100LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой.",
+      "inline": false
+    },
+    {
+      "title": "Поводок",
+      "value": "Heavy Leader EXT",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "UUltra LF Series S4-S4/0",
+      "inline": false
+    }
+  ]
+}
