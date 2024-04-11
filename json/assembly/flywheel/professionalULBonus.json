@@ -1,0 +1,29 @@
+{
+  "title": "Маховая | УЛ - Профессиональная бонусная",
+  "bio": "Сборка для игроков с 26 уровня. Рекомендуется, для ловли разной рыбы до 4 килограмм. Для рекордов по УЛ на карпах, рекомендуется использовать дешёвые крючки 101 серии.",
+  "imgRod": "images/fishing-rod/razor-ultra",
+  "imgReel": "",
+  "total": "Цена: от 8618.0 \uD83D\uDCBF",
+  "helps": [
+    {
+      "title": "Удочка (от 8514.0 \uD83D\uDCBF | 59.90 \uD83D\uDCC0)",
+      "value": "Razor Ultra 800",
+      "inline": false
+    },
+    {
+      "title": "Леска",
+      "value": "Fine 12LB",
+      "inline": false
+    },
+    {
+      "title": "Поплавок",
+      "value": "Любой",
+      "inline": false
+    },
+    {
+      "title": "Крючок",
+      "value": "Любой",
+      "inline": false
+    }
+  ]
+}
