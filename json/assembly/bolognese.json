@@ -17,6 +17,11 @@
       "title": "Начальная бонус.",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/bolognese/initialBonus"
+    },
+    {
+      "title": "Проф. бонус.",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/bolognese/professionalBonus"
     }
   ]
 }
