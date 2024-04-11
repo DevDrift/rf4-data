@@ -17,6 +17,11 @@
       "title": "Начальная",
       "emoji": "\uD83D\uDD27",
       "cmd": "assembly-view-item/assembly/match/initial"
+    },
+    {
+      "title": "Начальная тяж.",
+      "emoji": "\uD83D\uDD27",
+      "cmd": "assembly-view-item/assembly/match/initialHeavy"
     }
   ]
 }
