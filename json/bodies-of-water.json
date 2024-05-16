@@ -60,6 +60,11 @@
       "cmd": "json/location/yantarnoe-lake"
     },
     {
+      "title": "оз. Медное",
+      "emoji": "\uD83C\uDF0A",
+      "cmd": "json/location/copper-lake"
+    },
+    {
       "title": "Ладожский архипелаг",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/ladoga-archipelago"
