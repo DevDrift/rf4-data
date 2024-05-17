@@ -14,11 +14,11 @@
     {
       "title": "Цена за переход",
       "inline": true,
-      "value": "\uD83D\uDCBF ?"
+      "value": "\uD83D\uDCBF 49.9"
     },
     {
       "title": "Тип ловли",
-      "value": "Поплавочная: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nДоночная: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nСпиннинговая:  \nМорская:  "
+      "value": "Поплавочная: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nДоночная: \uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F\uD83C\uDF1F \nСпиннинговая: \uD83C\uDF1F  \nМорская:  "
     },
     {
       "title": "Наценка (+) | Скидка (-)",
