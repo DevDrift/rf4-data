@@ -60,11 +60,6 @@
       "cmd": "json/location/yantarnoe-lake"
     },
     {
-      "title": "оз. Медное",
-      "emoji": "\uD83C\uDF0A",
-      "cmd": "json/location/copper-lake"
-    },
-    {
       "title": "Ладожский архипелаг",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/ladoga-archipelago"
@@ -73,6 +68,11 @@
       "title": "р. Ахтуба",
       "emoji": "\uD83C\uDF0A",
       "cmd": "json/location/akhtuba-river"
+    },
+    {
+      "title": "оз. Медное",
+      "emoji": "\uD83D\uDEA4",
+      "cmd": "json/location/copper-lake"
     },
     {
       "title": "р. Нижняя Тунгуска",
@@ -86,7 +86,7 @@
     },
     {
       "title": "Норвежское море",
-      "emoji": "\uD83C\uDF0A",
+      "emoji": "\uD83D\uDEA4",
       "cmd": "json/location/norwegian-sea"
     }
   ]
